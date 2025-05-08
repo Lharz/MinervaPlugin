@@ -1,0 +1,19 @@
+{
+  "Author": "your name here",
+  "Name": "Minerva",
+  "Punchline": "A short one-liner that shows up in /xlplugins.",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "InternalName": "minerva",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "CategoryTags": null,
+  "AssemblyVersion": "0.1.0.0",
+  "RepoUrl": "https://github.com/Lharz/xiv-currency-alert",
+  "DalamudApiLevel": 6,
+  "ImageUrls": null,
+  "IconUrl": null
+}
